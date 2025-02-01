@@ -1,0 +1,370 @@
+documents_files
+├── cantonese_books
+│   ├── Cantonese-A Comprehensive Grammer (2nd Edition, Stephen Matthews and Virginia Yip).pdf
+│   ├── Colloquial Cantonese-The Complete Course for Beginners (New Edition, Dana Scott Bourgerie, Keith S.T.Tong and Geogory James).pdf
+│   ├── LSHK 粵拼方案.pdf
+│   ├── [CD] Colloquial Cantonese-The Complete Course for Beginners (New Edition, Dana Scott Bourgerie, Keith S.T.Tong and Geogory James)
+│   │   ├── cd1
+│   │   │   ├── colloquial cantonese cd1 track 01 - heading.mp3
+│   │   │   ├── colloquial cantonese cd1 track 02 - initial consonants.mp3
+│   │   │   ├── colloquial cantonese cd1 track 03 - main vowels.mp3
+│   │   │   ├── colloquial cantonese cd1 track 04 - dipthongs.mp3
+│   │   │   ├── colloquial cantonese cd1 track 05 - a-consonant combinations.mp3
+│   │   │   ├── colloquial cantonese cd1 track 06 - e-consonant combinations.mp3
+│   │   │   ├── colloquial cantonese cd1 track 07 - i-consonant combinations.mp3
+│   │   │   ├── colloquial cantonese cd1 track 08 - o-consonant combinations.mp3
+│   │   │   ├── colloquial cantonese cd1 track 09 - u-consonant combinations.mp3
+│   │   │   ├── colloquial cantonese cd1 track 10 - y-consonant combinations.mp3
+│   │   │   ├── colloquial cantonese cd1 track 11 - tones.mp3
+│   │   │   ├── colloquial cantonese cd1 track 12 - u1 dialogue 1.mp3
+│   │   │   ├── colloquial cantonese cd1 track 13 - u1 dialogue 1 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 14 - u1 dialogue 2.mp3
+│   │   │   ├── colloquial cantonese cd1 track 15 - u1 dialogue 2 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 16 - u1 dialogue 3.mp3
+│   │   │   ├── colloquial cantonese cd1 track 17 - u1 dialogue 3 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 18 - u1 countries.mp3
+│   │   │   ├── colloquial cantonese cd1 track 19 - u1 languages.mp3
+│   │   │   ├── colloquial cantonese cd1 track 20 - u1 revision.mp3
+│   │   │   ├── colloquial cantonese cd1 track 21 - u2 dialogue1.mp3
+│   │   │   ├── colloquial cantonese cd1 track 22 - u2 dialogue1 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 23 - u2 dialogue 2.mp3
+│   │   │   ├── colloquial cantonese cd1 track 24 - u2 dialogue 3.mp3
+│   │   │   ├── colloquial cantonese cd1 track 25 - u2 dialogue 3 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 26 - u2 fruit.mp3
+│   │   │   ├── colloquial cantonese cd1 track 27 - u2 numbers 1-20.mp3
+│   │   │   ├── colloquial cantonese cd1 track 28 - u2 numbers 21-100.mp3
+│   │   │   ├── colloquial cantonese cd1 track 29 - u2 u2 idioms-phrases.mp3
+│   │   │   ├── colloquial cantonese cd1 track 30 - u2 pronouns.mp3
+│   │   │   ├── colloquial cantonese cd1 track 31 - u3 dialogue1.mp3
+│   │   │   ├── colloquial cantonese cd1 track 32 - u3 dialogue1 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 33 - u3 dialogue2.mp3
+│   │   │   ├── colloquial cantonese cd1 track 34 - u3 common interests.mp3
+│   │   │   ├── colloquial cantonese cd1 track 35 - u3 days of the week etc.mp3
+│   │   │   ├── colloquial cantonese cd1 track 36 - u3 dialogue 3.mp3
+│   │   │   ├── colloquial cantonese cd1 track 37 - u3 dialogue 4.mp3
+│   │   │   ├── colloquial cantonese cd1 track 38 - u3 u3 idioms-phrases.mp3
+│   │   │   ├── colloquial cantonese cd1 track 39 - u3 frequency.mp3
+│   │   │   ├── colloquial cantonese cd1 track 40 - u4 dialogue1.mp3
+│   │   │   ├── colloquial cantonese cd1 track 41 - u4 dialogue1 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 42 - u4 dialogue 2.mp3
+│   │   │   ├── colloquial cantonese cd1 track 43 - u4 hours of the day.mp3
+│   │   │   ├── colloquial cantonese cd1 track 44 - u4 time of day.mp3
+│   │   │   ├── colloquial cantonese cd1 track 45 - u4 expressing time.mp3
+│   │   │   ├── colloquial cantonese cd1 track 46 - u4 dialogue 3.mp3
+│   │   │   ├── colloquial cantonese cd1 track 47 - u4 dialogue 3 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 48 - u4 dialogue 4.mp3
+│   │   │   ├── colloquial cantonese cd1 track 49 - u4 dialogue 5.mp3
+│   │   │   ├── colloquial cantonese cd1 track 50 - u4 u4 idioms-phrases.mp3
+│   │   │   ├── colloquial cantonese cd1 track 51 - u4 daily routines etc.mp3
+│   │   │   ├── colloquial cantonese cd1 track 52 - u5 dialogue 1.mp3
+│   │   │   ├── colloquial cantonese cd1 track 53 - u5 dialogue 1 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 54 - u5 dialogue 2.mp3
+│   │   │   ├── colloquial cantonese cd1 track 55 - u5 appearance, ages, rela.mp3
+│   │   │   ├── colloquial cantonese cd1 track 56 - u5 phrasing questions.mp3
+│   │   │   ├── colloquial cantonese cd1 track 57 - u5 idioms-phrases.mp3
+│   │   │   ├── colloquial cantonese cd1 track 58 - u5 dialogue 3.mp3
+│   │   │   ├── colloquial cantonese cd1 track 59 - u5 dialogue 3 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 60 - u6 dialogue 1.mp3
+│   │   │   ├── colloquial cantonese cd1 track 61 - u6 dialogue 1 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 62 - u6 dialogue 2.mp3
+│   │   │   ├── colloquial cantonese cd1 track 63 - u6 dialogue 2 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 64 - u6 furiture - money.mp3
+│   │   │   ├── colloquial cantonese cd1 track 65 - u6 money -rough amounts.mp3
+│   │   │   ├── colloquial cantonese cd1 track 66 - u6 idioms - phrases.mp3
+│   │   │   ├── colloquial cantonese cd1 track 67 - u6 dialogue 3.mp3
+│   │   │   ├── colloquial cantonese cd1 track 68 - u6 dialogue 3 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 69 - u7 dialogue 1.mp3
+│   │   │   ├── colloquial cantonese cd1 track 70 - u7 dialogue 1 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 71 - u7 dialogue 2.mp3
+│   │   │   ├── colloquial cantonese cd1 track 72 - u7 dialogue 2 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 73 - u7 dialogue 3.mp3
+│   │   │   ├── colloquial cantonese cd1 track 74 - u7 dialogue 3 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 75 - u7 dialogue 4.mp3
+│   │   │   ├── colloquial cantonese cd1 track 76 - u7 dialogue 4 role play.mp3
+│   │   │   ├── colloquial cantonese cd1 track 77 - u7 transport.mp3
+│   │   │   ├── colloquial cantonese cd1 track 78 - u7 one and a half.mp3
+│   │   │   └── colloquial cantonese cd1 track 79 - u7 idioms - phrases.mp3
+│   │   └── cd2
+│   │       ├── colloquial cantonese cd2 track 01 - u8 dialogue 1.mp3
+│   │       ├── colloquial cantonese cd2 track 02 - u8 dialogue 1 role play.mp3
+│   │       ├── colloquial cantonese cd2 track 03 - u8 dialogue 2.mp3
+│   │       ├── colloquial cantonese cd2 track 04 - u8 dialogue 2 role play.mp3
+│   │       ├── colloquial cantonese cd2 track 05 - u8 vocabulary - rooms etc.mp3
+│   │       ├── colloquial cantonese cd2 track 06 - u8 idioms - phrases.mp3
+│   │       ├── colloquial cantonese cd2 track 07 - u9 dialogue 1.mp3
+│   │       ├── colloquial cantonese cd2 track 08 - u9 dialogue 1 role play.mp3
+│   │       ├── colloquial cantonese cd2 track 09 - u9 dialogue 2.mp3
+│   │       ├── colloquial cantonese cd2 track 10 - u9 dialogue 2 role play.mp3
+│   │       ├── colloquial cantonese cd2 track 11 - u9 household tasks.mp3
+│   │       ├── colloquial cantonese cd2 track 12 - u9 office tasks.mp3
+│   │       ├── colloquial cantonese cd2 track 13 - u9 dialogue 3.mp3
+│   │       ├── colloquial cantonese cd2 track 14 - u9 dialogue 4.mp3
+│   │       ├── colloquial cantonese cd2 track 15 - u9 idioms - phrases.mp3
+│   │       ├── colloquial cantonese cd2 track 16 - u10 dialogue 1.mp3
+│   │       ├── colloquial cantonese cd2 track 17 - u10 dialogue 2.mp3
+│   │       ├── colloquial cantonese cd2 track 18 - u10 household objects.mp3
+│   │       ├── colloquial cantonese cd2 track 19 - u10 shops.mp3
+│   │       ├── colloquial cantonese cd2 track 20 - u10 dialogue 3.mp3
+│   │       ├── colloquial cantonese cd2 track 21 - u10 dialogue 4.mp3
+│   │       ├── colloquial cantonese cd2 track 22 - u10 idioms - phrases.mp3
+│   │       ├── colloquial cantonese cd2 track 23 - u11 dialogue 1.mp3
+│   │       ├── colloquial cantonese cd2 track 24 - u11 dialogue 2.mp3
+│   │       ├── colloquial cantonese cd2 track 25 - u11 common dishes.mp3
+│   │       ├── colloquial cantonese cd2 track 26 - u11 chinese teas.mp3
+│   │       ├── colloquial cantonese cd2 track 27 - u11 dimsam.mp3
+│   │       ├── colloquial cantonese cd2 track 28 - u11 fast food.mp3
+│   │       ├── colloquial cantonese cd2 track 29 - u11 dialogue 3.mp3
+│   │       ├── colloquial cantonese cd2 track 30 - u11 dialogue 4.mp3
+│   │       ├── colloquial cantonese cd2 track 31 - u11 idioms - phrases.mp3
+│   │       ├── colloquial cantonese cd2 track 32 - u12 dialogue 1.mp3
+│   │       ├── colloquial cantonese cd2 track 33 - u12 dialogue 2.mp3
+│   │       ├── colloquial cantonese cd2 track 34 - u12 weather.mp3
+│   │       ├── colloquial cantonese cd2 track 35 - u12 special occaisions.mp3
+│   │       ├── colloquial cantonese cd2 track 36 - u12 months.mp3
+│   │       ├── colloquial cantonese cd2 track 37 - u12 dialogue 3.mp3
+│   │       ├── colloquial cantonese cd2 track 38 - u12 dialogue 4.mp3
+│   │       ├── colloquial cantonese cd2 track 39 - u12 idioms - phrases.mp3
+│   │       ├── colloquial cantonese cd2 track 40 - u13 dialogue 1.mp3
+│   │       ├── colloquial cantonese cd2 track 41 - u13 dialogue 2.mp3
+│   │       ├── colloquial cantonese cd2 track 42 - u13 clothing.mp3
+│   │       ├── colloquial cantonese cd2 track 43 - u13 ladies' wear.mp3
+│   │       ├── colloquial cantonese cd2 track 44 - u13 casual wear.mp3
+│   │       ├── colloquial cantonese cd2 track 45 - u13 warm clothes.mp3
+│   │       ├── colloquial cantonese cd2 track 46 - u13 colours.mp3
+│   │       ├── colloquial cantonese cd2 track 47 - u13 dialogue 3.mp3
+│   │       ├── colloquial cantonese cd2 track 48 - u13 idioms - phrases.mp3
+│   │       ├── colloquial cantonese cd2 track 49 - u14 dialogue 1.mp3
+│   │       ├── colloquial cantonese cd2 track 50 - u14 dialogue 2.mp3
+│   │       ├── colloquial cantonese cd2 track 51 - u14 dialogue 1 past time.mp3
+│   │       ├── colloquial cantonese cd2 track 52 - u14 cities.mp3
+│   │       ├── colloquial cantonese cd2 track 53 - u14 country compliments.mp3
+│   │       ├── colloquial cantonese cd2 track 54 - u14 dialogue 3.mp3
+│   │       ├── colloquial cantonese cd2 track 55 - u14 dialogue 4.mp3
+│   │       ├── colloquial cantonese cd2 track 56 - u14 idioms - phrases.mp3
+│   │       ├── colloquial cantonese cd2 track 57 - u15 dialogue 1.mp3
+│   │       ├── colloquial cantonese cd2 track 58 - u15 dialogue 2.mp3
+│   │       ├── colloquial cantonese cd2 track 59 - u15 phone expressions.mp3
+│   │       ├── colloquial cantonese cd2 track 60 - u15 evening activities.mp3
+│   │       ├── colloquial cantonese cd2 track 61 - u15 dialogue 3.mp3
+│   │       ├── colloquial cantonese cd2 track 62 - u15 dialogue 4.mp3
+│   │       ├── colloquial cantonese cd2 track 63 - u15 idioms - phrases.mp3
+│   │       └── colloquial cantonese cd2 track 64 - end announcement.mp3
+│   ├── 广州话俗语词典 (欧阳觉亚, 周无忌, 饶秉才).pdf
+│   ├── 广州话正音字典-广州话普通话读音对照 (詹伯慧).pdf
+│   ├── 粵語速成：中級教材 (吳偉平, 沈敏瑜).pdf
+│   ├── 粵語速成：初級教材 (吳偉平, 李兆麟).pdf
+│   ├── 粵語速成：高級教材 (吳偉平, 陳智樑).pdf
+│   ├── 粵語（香港話）教程 (鄭定歐, 張勵妍, 高石英).pdf
+│   ├── 識普拼，學粵拼.pdf
+│   └── 香港中文大學自學中心-輕輕鬆鬆學粵語.pdf
+├── computer_science_books
+│   ├── Advanced Bash Scripting Guide-An in-depth exploration of the art of shell-scripting (Mendel Cooper).pdf
+│   ├── Advanced Programming In The UNIX Environment (3rd Edition, W.Richard Stevens and Stephen A.Rago).pdf
+│   ├── Advanced_UNIX_Programming_With_Linux
+│   │   ├── I
+│   │   │   ├── Chapter 1. Getting Started.pdf
+│   │   │   ├── Chapter 2. Writing Good UNIX_LINUX Software.pdf
+│   │   │   ├── Chapter 3. Processes.pdf
+│   │   │   ├── Chapter 4. Threads.pdf
+│   │   │   └── Chapter 5. Interprocess Communication.pdf
+│   │   └── II
+│   │       ├── Chapter 10. Security.pdf
+│   │       ├── Chapter 11. A Sample GNU_Linux Application.pdf
+│   │       ├── Chapter 6. Devices.pdf
+│   │       ├── Chapter 7. The proc File System.pdf
+│   │       ├── Chapter 8. Linux System Calls.pdf
+│   │       └── Chapter 9. Inline Assembly Code.pdf
+│   ├── An Elementary Introduction to the Wolfram Language (Stephen Wolfram).pdf
+│   ├── Assembly Language Step by Step-Programming with Linux (3rd Edition, Jeff Duntemann).pdf
+│   ├── Automate The Boring Stuff With Python-Practical Programming for Total Beginners (Al Sweigart).pdf
+│   ├── Beej's Quick Guide To GDB (Second_Release).pdf
+│   ├── Beginning Databases With PostgreSQL-From Novice to Professional (2nd Edition, Neil Matthew and Richard Stones).pdf
+│   ├── C++ Primer (5th Edition, Stanley B.Lippman, Jose Lajoie and Barbara E.Moo).pdf
+│   ├── Computer Algebra-An Algorithm Oriented Introduction (Wolfram Koepf).pdf
+│   ├── Core Python Applications Programming (3rd Edition, Wesley J.Chun).pdf
+│   ├── Effective Python-编写高质量Python代码的59个有效方法 (Brett Slatkin).pdf
+│   ├── Ext4-The Next Generation of the Ext2-3 File System (Mingming Cao, Suparna Bhattacharya, Ted Tso and IBM).pdf
+│   ├── Fluent Python (2nd Edition, Luciano Ramalho).pdf
+│   ├── Getting Started With SE Linux HOWTO-The New SE Linux (简体中文版) (Faye Coker).pdf
+│   ├── Hands-On Start to Wolfram Mathematica-And Programming with the Wolfram Language (2nd Edition, Cliff Hastings, Kelvin Mischo and Michael Morrison).pdf
+│   ├── High Performance Python-Practical Performant Programming for Humans (2nd Edition, Micha Gorelick and Ian Ozsvald).pdf
+│   ├── Introduction To Algorithms (3rd Edition, Thomas D.Rivest and Clifford Stein).pdf
+│   ├── KVM内核极虚拟化技术-KVM (Kernel-based Virtual Machine) (Linux公社).pdf
+│   ├── LDAP System Administration (Gerald Carter).pdf
+│   ├── Learning Modern Linux (Second Early Release, Michael Hausenblas).pdf
+│   ├── Learning MySQL (Seyed M.M.Saied Tabagbogbi and Hugb E.Williams).pdf
+│   ├── Learning Python (5th Edition, Mark Lutz).pdf
+│   ├── Linux Kernel Development-A thorough guide to the design and implementation of the Linux kernel (3rd Edition, Robert Love).pdf
+│   ├── Linux中的汇编语言.pdf
+│   ├── Linux命令行参数在栈中的分配.pdf
+│   ├── Mastering Regular Expressions-Powerful Techniques for Perl and Other Tools (Jeffery E.F.Friedl).pdf
+│   ├── PostgreSQL-Up and Running (Regina Obe and Leo Hsu).pdf
+│   ├── Professional Assembly Language (Richard Blum).pdf
+│   ├── Programming Python (4th Edition, Mark Lutz).pdf
+│   ├── Programming from the Ground Up (Jonathan Bartlett).pdf
+│   ├── Programming_Rust-Fast, Safe Systems Development (2nd Edition, Jim Blandy, Jason Orendorff and Leonara F.S.Tindall).pdf
+│   ├── Python Algorithm-Mastering Basic Algorithms in the Python Language (Magnus Lie Hetland).pdf
+│   ├── Python Crash Course-A Hands-On, Project-Based Introduction to Programming (2nd Edition, Eric Matthes).pdf
+│   ├── Python Essential Reference (4th Edition, David M.Beazley).pdf
+│   ├── Python Playground-Geeky Projects for the Curious Programmer (Mahesh Venkitachalam).pdf
+│   ├── Python数据结构与算法-Problem Solving in Data.pdf
+│   ├── Python科学计算 (第2版,张若愚).pdf
+│   ├── Python编程初学者指南 (Michael Dawson).pdf
+│   ├── Rapid GUI Programming With Python And Qt-The Definitive Guide to PyQT Programming (Mark Summerfield).pdf
+│   ├── Systemd for Administrators.pdf
+│   ├── TCP_IP Illustrated I-The Protocals (2nd Edition, Kevin R.Fall and W.Richard Stevens).pdf
+│   ├── TCP_IP_Protocals
+│   │   ├── 01_概述.PDF
+│   │   ├── 02_链路层.PDF
+│   │   ├── 03_IP网际协议.PDF
+│   │   ├── 04_ARP地址解析协议.PDF
+│   │   ├── 05_RARP逆地址解析协议.PDF
+│   │   ├── 06_ICMP_Internet控制报文协议.PDF
+│   │   ├── 07_Ping程序.PDF
+│   │   ├── 08_Traceroute程序.PDF
+│   │   ├── 09_IP选路.PDF
+│   │   ├── 10_动态选路协议.PDF
+│   │   ├── 11_UDP用户数据报协议.PDF
+│   │   ├── 12_广播和多播.PDF
+│   │   ├── 13_IGMP_Internet组管理协议.PDF
+│   │   ├── 14_DNS域名系统.PDF
+│   │   ├── 15_TFTP简单文件传输送协议.PDF
+│   │   ├── 16_BOOTP引导程序协议.PDF
+│   │   ├── 17_TCP传输控制协议.PDF
+│   │   ├── 18_TCP连接的建立与终止.PDF
+│   │   ├── 19_TCP的交互数据流.PDF
+│   │   ├── 20_TCP的成块数据流.PDF
+│   │   ├── 21_TCP的超时与重传.PDF
+│   │   ├── 22_TCP的坚持定时器.PDF
+│   │   ├── 23_TCP的保活定时器.PDF
+│   │   ├── 24_TCP的未来和性能.PDF
+│   │   ├── 25_SNMP简单网络管理协议.PDF
+│   │   ├── 26_Telnet和Rlogin远程登录.PDF
+│   │   ├── 27_FTP文件传送协议.PDF
+│   │   ├── 28_SMTP简单文件传送协议.PDF
+│   │   ├── 29_网络文件系统.PDF
+│   │   ├── 30_其他的TCP_IP应用程序.PDF
+│   │   ├── 附录A_tcpdump程序.PDF
+│   │   ├── 附录B_计算机时钟.PDF
+│   │   ├── 附录C_sock程序.PDF
+│   │   ├── 附录D_部分习题的解答.PDF
+│   │   └── 附录E_配置选项.PDF
+│   ├── The Python 3 Standard Library by Example (Doug Hellmann).pdf
+│   ├── The SE Linux Coloring Book-Its raining Cats and Dogs! (Dan Walsh and Mairin Duffy).pdf
+│   ├── Think Python-How to Think Like A Computer Scientist (2nd Edition, Allen B.Downway).pdf
+│   ├── UNIX Network Programming I-The Sockets Networking API (3rd Edition, W.Richard Stevens, Bill Fenner and Andrew M.Rudoff).pdf
+│   ├── Understanding The Linux Kernel (3rd Edition, Daniel P.Bovet and Marco Cesati).pdf
+│   ├── Understanding the Linux Virtual Memory Manager (Mel Gorman).pdf
+│   ├── reviews.pdf
+│   ├── x86汇编.pdf
+│   ├── 中文Python笔记.pdf
+│   ├── 廖雪峰Python3教程.pdf
+│   ├── 数据结构与算法-Python语言描述 (裘宗燕).pdf
+│   ├── 汇编语言程序设计书笔记_1_相关工具.pdf
+│   ├── 简明Python教程.pdf
+│   └── 编写高质量代码-改善Python程序的91个建议 (张颖, 赖勇浩).pdf
+├── latex
+│   └── latex_manual.pdf
+├── math_books
+│   ├── Abstract Algebra-An Introductory Course (Gregory T.Lee).pdf
+│   ├── Algebra (2nd Edition, Michael Artin).pdf
+│   ├── Algebraic Combinatorics-Walks, Trees, Tableaux, and More (Richard P.Stanley).pdf
+│   ├── Analysis I (3rd Edition, Terence Tao).pdf
+│   ├── Analysis II (3rd Edition, Terence Tao).pdf
+│   ├── Berkeley Problems in Mathematics (Paulo Ney de Souza and Jorge-Nuno Silva).pdf
+│   ├── Functional Analysis (Peter D.Lax).pdf
+│   ├── Introduction to Analytic Number Theory (Tom M.Apostol).pdf
+│   ├── Introductory Functional Analysis With Applications (Erwin Kreyszig).pdf
+│   ├── Lectures on Random Matrix Theory (Govind Menon and Thomas Trogdon).pdf
+│   ├── Mathematical Analysis I (2nd Edition, Vladmir A.Zorich).pdf
+│   ├── Mathematical Analysis II (2nd Edition, Vladmir A.Zorich).pdf
+│   ├── Matrix Analysis (2nd Edition, Roger A.Horn and Charles R.Johnson).pdf
+│   ├── Number Theory-Concepts and Problems (Titu Andreescu, Gabriel Dospinescu and Oleg Mushkarov).pdf
+│   ├── Problem Solving Through Problems-With 104 Illustrations (Loren C.Larson).pdf
+│   ├── Putnam and Beyond (2nd Edition, Razvan Gelca and Titu Andreescu).pdf
+│   ├── Topology (2nd Edition, James Munkres).pdf
+│   ├── Visual Differential Geometry and Forms-A Mathematical Drama In Five Acts (Tristan Needham).pdf
+│   ├── 基础代数-第一卷-第一分册 (N.Jacobson).pdf
+│   ├── 复旦大学高等代数习题集 (2024年版,谢启鸿).pdf
+│   ├── 数学分析之课程讲义 (于品).pdf
+│   ├── 数学分析葵花宝典 (Ver2.1, 向禹).pdf
+│   ├── 计算机代数系统的数学原理 (李超, 阮威, 张龙, 张翔).pdf
+│   └── 近世代数 (第2版, 韩士安, 林磊).pdf
+├── others
+│   ├── Fundamentals of Physics I-Mechanics, Relativity and Thermodynamics (Expanded Edition, R.Shankar).pdf
+│   └── Fundamentals of Physics II-Electromagnetism, Optics and Quantum Mechanics (R.Shankar).pdf
+└── putnam_papers
+    ├── problems
+    │   ├── 1985.pdf
+    │   ├── 1986.pdf
+    │   ├── 1987.pdf
+    │   ├── 1988.pdf
+    │   ├── 1989.pdf
+    │   ├── 1990.pdf
+    │   ├── 1991.pdf
+    │   ├── 1992.pdf
+    │   ├── 1993.pdf
+    │   ├── 1994.pdf
+    │   ├── 1995.pdf
+    │   ├── 1996.pdf
+    │   ├── 1997.pdf
+    │   ├── 1998.pdf
+    │   ├── 1999.pdf
+    │   ├── 2000.pdf
+    │   ├── 2001.pdf
+    │   ├── 2002.pdf
+    │   ├── 2003.pdf
+    │   ├── 2004.pdf
+    │   ├── 2005.pdf
+    │   ├── 2006.pdf
+    │   ├── 2007.pdf
+    │   ├── 2008.pdf
+    │   ├── 2009.pdf
+    │   ├── 2010.pdf
+    │   ├── 2011.pdf
+    │   ├── 2012.pdf
+    │   ├── 2013.pdf
+    │   ├── 2014.pdf
+    │   ├── 2015.pdf
+    │   ├── 2016.pdf
+    │   ├── 2017.pdf
+    │   ├── 2018.pdf
+    │   ├── 2019.pdf
+    │   ├── 2020.pdf
+    │   ├── 2021.pdf
+    │   ├── 2022.pdf
+    │   ├── 2023.pdf
+    │   └── 2024.pdf
+    └── solutions
+        ├── 1995s.pdf
+        ├── 1996s.pdf
+        ├── 1997s.pdf
+        ├── 1998s.pdf
+        ├── 1999s.pdf
+        ├── 2000s.pdf
+        ├── 2001s.pdf
+        ├── 2002s.pdf
+        ├── 2003s.pdf
+        ├── 2004s.pdf
+        ├── 2005s.pdf
+        ├── 2006s.pdf
+        ├── 2007s.pdf
+        ├── 2008s.pdf
+        ├── 2009s.pdf
+        ├── 2010s.pdf
+        ├── 2011s.pdf
+        ├── 2012s.pdf
+        ├── 2013s.pdf
+        ├── 2014s.pdf
+        ├── 2015s.pdf
+        ├── 2016s.pdf
+        ├── 2017s.pdf
+        ├── 2018s.pdf
+        ├── 2019s.pdf
+        ├── 2020s.pdf
+        ├── 2021s.pdf
+        ├── 2022s.pdf
+        ├── 2023s.pdf
+        └── 2024s.pdf
+
+16 directories, 352 files
